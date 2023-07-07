@@ -8,15 +8,15 @@ What is Honkai star rail?
 - in short it is a gacha game 
 
 Countries that uses gmt +8:
-Australia — Partial 
-Brunei — Full
-China — Full
-Hong Kong — Full
-Indonesia — Partial 
-Macau — Full
-Malaysia — Full
-Mongolia — Partial 
-Philippines — Full
-Russia — Partial 
-Singapore — Full
-Taiwan — Full
+Australia — Partial,
+Brunei,
+China,
+Hong Kong, 
+Indonesia,
+Macau,
+Malaysia, 
+Mongolia — Partial, 
+Philippines, 
+Russia, 
+Singapore,
+Taiwan,
