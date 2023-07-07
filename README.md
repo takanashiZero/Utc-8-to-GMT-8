@@ -20,3 +20,7 @@ Philippines,
 Russia, 
 Singapore,
 Taiwan,
+
+Future update:
+- add a GUI
+- more timezones
